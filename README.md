@@ -21,22 +21,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Governança de IA e sua Relação com a Governança de Dados: Um Olhar Contemporâneo
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Meu projeto realizará a apresentação da importância da governança de IA na atualidade e qual relação ela tem com Governança de Dados. A proposta é destacar como a governança de IA pode impactar a eficiência e a transparência na gestão de dados, além de suas implicações éticas e práticas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+•	Chat GPT
+•	Leonardo
+•	Gamma
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi criado com base em conhecimento próprio, agregado a informações trazidas pela IA através dos prompts descritos. O desenvolvimento incluiu pesquisa sobre governança de IA e sua intersecção com governança de dados, além de um processo de curadoria de informações e validação com a ajuda de ferramentas de IA.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O projeto gerou um conteúdo informativo sobre governança de IA e sua relação com a Governança de Dados, explicando suas relevâncias e impacto  em diferentes setores. Como resultado, obtivemos um material estruturado e acessível, que pode ser utilizado para sensibilizar e educar profissionais e acadêmicos da área.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O desafio de criar algo "natty" com IA está em balancear a criatividade com a precisão das informações. O uso de IA permite a criação rápida e eficaz de conteúdo, mas requer um nível de curadoria e avaliação crítica para garantir que as informações sejam realmente valiosas e precisas. Foi interessante perceber como IA pode ser um recurso poderoso, mas ainda assim, o toque humano é essencial para dar sentido e contexto à produção.
 
 ### Exemplos e Insigths
 
